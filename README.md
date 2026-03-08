@@ -85,5 +85,7 @@ CG-Lab/
 
 ## 效果演示
 
-![粒子模拟演示](gif/粒子群实验.gif)
+<div align="center">
+  <img src="src/Work0/gif/gif.gif" width="600">
+</div>
 
