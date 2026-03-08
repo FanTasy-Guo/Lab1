@@ -10,9 +10,9 @@ CG-Lab/
 │       ├── config.py                # 全局配置（物理参数、渲染参数）
 │       ├── physics.py               # GPU 物理计算内核
 │       ├── main.py                  # 主程序入口 + GUI 渲染循环
-│       └── test.py                  # 功能测试
-├── gif
-│   └── 粒子群实验.gif                
+│       ├── test.py                  # 功能测试
+│       └── gif
+│            └── demo.gif             
 ├── .venv                            # 项目配置文件夹（内略）
 ├── README.md                        # 项目说明文档
 ├── .python-version                  #记录项目使用的 Python 版本号
@@ -86,6 +86,6 @@ CG-Lab/
 ## 效果演示
 
 <div align="center">
-  <img src="src/Work0/gif/粒子群实验.gif" width="600">
+  <img src="src/Work0/gif/demo.gif" width="600">
 </div>
 
