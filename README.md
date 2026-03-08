@@ -86,6 +86,6 @@ CG-Lab/
 ## 效果演示
 
 <div align="center">
-  <img src="src/Work0/gif/gif.gif" width="600">
+  <img src="src/Work0/gif/粒子群实验.gif" width="600">
 </div>
 
