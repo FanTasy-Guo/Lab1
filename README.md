@@ -86,6 +86,6 @@ CG-Lab/
 ## 效果演示
 
 <div align="center">
-  <img src=https://github.com/user-attachments/assets/3dcc1178-fcdd-4d21-a02f-2e9111634725 width="600">
+  <img src=src/Work0/gif/demo.gif width="600">
 </div>
 
